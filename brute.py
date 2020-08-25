@@ -7,7 +7,7 @@ from io import BytesIO
 import os
 from os import environ
 
-url_base = "https://cdn2.unrealengine.com/en-14br-teaser-day4-motd-1920x1080-1920x1080-"
+url_base = "https://cdn2.unrealengine.com/en-14br-teaser-day5-motd-1920x1080-1920x1080-"
 jpg_ext = ".jpg"
 url_live = 'https://cdn2.unrealengine.com/en-14br-teaser-day1-motd-1920x1080-1920x1080-810893971.jpg'
 
