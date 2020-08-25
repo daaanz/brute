@@ -19,7 +19,7 @@ def download_img(url, file_name):
     im = Image.open(BytesIO(r.content))
     im.save(number_current + '.jpg')
 
-number_start = 838200000
+number_start = 839200000
 
 while 1:
     try:
